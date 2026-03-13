@@ -5,7 +5,7 @@ A web-based Serial Monitor using the **Web Serial API** — runs entirely in the
 [![Live Demo](https://img.shields.io/badge/Live-serial.sterlings.live-brightgreen?logo=vercel&logoColor=white)](https://serial.sterlings.live)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Serial Monitor Screenshot](https://serial.sterlings.live/og.svg)
+![Serial Monitor Screenshot](og.png)
 
 ## ✨ Features
 
