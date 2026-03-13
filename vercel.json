@@ -1,5 +1,7 @@
 {
   "version": 2,
+  "name": "serial-monitor",
+  "alias": ["serial.sterlings.live"],
   "routes": [
     { "src": "/(.*)", "dest": "/$1" }
   ],
