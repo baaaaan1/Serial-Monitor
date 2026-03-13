@@ -1,0 +1,12 @@
+{
+  "name": "Serial Monitor",
+  "short_name": "SerialMon",
+  "description": "Web-based Serial Monitor using Web Serial API",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#00ff88",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

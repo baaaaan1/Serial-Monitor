@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+.npm
+
+# Build / cache
+.cache/
+.parcel-cache/
+dist/
+.next/
+
+# Vercel
+.vercel/
+
+# Netlify
+.netlify/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/settings.json
+.idea/
+*.suo
+*.user
+
+# Logs
+*.log
+npm-debug.log*
